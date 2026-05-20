@@ -1,10 +1,7 @@
 class Test{
 	public static void main(){
 		System.out.println("Yarl IT");
-		System.out.println("Yarl IT");
-		System.out.println("Yarl IT");
-		System.out.println("Yarl IT");
-		System.out.println("Yarl IT");
+		System.out.println("Yarl Institute of Technology");
 		
 	}
 }
